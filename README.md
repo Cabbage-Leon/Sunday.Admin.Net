@@ -1,0 +1,2 @@
+# Sunday.Admin.Net
+AdminSystem
